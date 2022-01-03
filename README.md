@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Samex
+- 🔭 I’m currently working on nothing, learning advanced C
 - 🌱 I’m currently learning nothing
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about my pfp
