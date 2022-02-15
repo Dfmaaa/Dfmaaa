@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on nothing, learning advanced C
+- 🔭 I’m currently working on nothing, learning cool algos
 - 🌱 I’m currently learning BST
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about my pfp
