@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on nothing, learning cool algos
-- 🌱 I’m currently learning Graph theory
+- 🔭 I’m currently working on Mammon.
+- 🌱 I’m currently learning nothing, just learning things as I go.
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about my pfp
 - 📫 How to reach me: https://www.twitter.com/SameerAchhab
