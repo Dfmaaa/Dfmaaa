@@ -1,16 +1,14 @@
+I may have forgotten obscure C functions because I dont actively try to learn more about C, I like using C to implement ideas. I prefer C because it's a really straightforward language. Though, I will admit 
+that some tasks that may seem trivial in other languages, can take significantly more time in C. 
 
- I stopped coding as often as I used to. Recently, I've been making small programs to test my skills. I've actually found that I've gotten more mature.
- I am using conceptually harder methods if it means less memory usage.
-  
- This can be seen in the programs "find", and "find-and-replace". I used to think that these algorithms were tedious to write, and whenever I needed
- something similar, I used memory intensive approaches that don't seem feasable to me now in the slightest. My mind always used to go to concatenation for this because it refused to think about edge cases related to array bounds. I'm different now, and am more open to different approaches. 
- 
-This hiatus from coding has not been as bad for me as I expected. 
-I may have forgotten obscure functions and concepts in C, but my problem solving didn't deteriorate. That's the most important thing. I'll be coding more from now onward.  
+One thing I've noticed is that I find bugs more quickly now. My logic is that if you think about what the function does, how it does what it does, what can go wrong, it builds a vivid picture in your mind, that allows you to quickly find which instruction is causing unexpected behavior. 
+
+I dont think I've ever used GDB to debug my programs, and have actually saved time, might just be because I'm incompotent, but my go-to method for debugging is printing "Here 1" , "Here 2" at least for trivial bugs. 
+
+
 
 
 
   
 - 📫 How to reach me: https://www.twitter.com/SameerAchhab
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: vanilla flavouring has a component called Castoreum that comes from the anal glands of beavers. :)
